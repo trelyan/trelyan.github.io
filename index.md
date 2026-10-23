@@ -2,6 +2,8 @@
 title: TRELYAN Inc.
 ---
 
+![TRELYAN winged-T mark](trelyan-winged-t.png)
+
 # TRELYAN Inc.
 
 **Software that signs records with post-quantum signatures.**
@@ -17,6 +19,10 @@ You can check a receipt with the verifier at [throndar.ai/verify/proof](https://
 A valid signature shows that the receipt was signed with the private key matching the public key published at throndar.ai, and that it has not been altered since. It does not show that an answer is correct.
 
 Our other products are in development and not yet released.
+
+## Public notes
+
+Primers on post-quantum migration, and notes on how we check our own claims: [publish.obsidian.md/trelyan](https://publish.obsidian.md/trelyan).
 
 ## Company
 
